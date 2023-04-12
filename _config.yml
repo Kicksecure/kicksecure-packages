@@ -1,0 +1,11 @@
+---
+title: Kicksecure Package Index
+description: A searchable website with information and metadata about Kicksecure packages
+theme: just-the-docs
+
+url: https://packages.kicksecure.com
+
+logo: "./assets/kicksecure-logo-text.svg"
+favicon_ico: "./assets/kicksecure-logo-icon.ico"
+
+color_scheme: kicksecure
