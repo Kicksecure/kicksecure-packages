@@ -1,0 +1,30 @@
+---
+name: Build Static Site
+on:
+  push:
+    branches:
+      - "main"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Build
+        uses: jerryjvl/jekyll-build-action@v1
+
+      - name: Commit to static repo
+        run: |
+          git config --global user.email "ci-dummy-commit@kicksecure.com"
+          git config --global user.name "ci-dummy"
+          git config --global credential.helper cache
+          git clone https://${{secrets.ACCESS_TOKEN}}@github.com/kicksecure/kicksecure-packages-static
+          rm -rf ./kicksecure-packages-static/*
+          cp -r ./_site/assets/ ./kicksecure-packages-static/
+          cp -r ./_site/docs/ ./kicksecure-packages-static/
+          cp -r ./_site/index.html ./kicksecure-packages-static/
+          cd ./kicksecure-packages-static
+          git add .
+          git commit -m "$(date)"
+          git push
