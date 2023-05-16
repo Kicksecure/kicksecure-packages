@@ -6,7 +6,7 @@ parent: contrib
 grand_parent: bullseye-proposed-updates
 ---
 
-<h1> bullseye-proposed-updates contrib packages for binary-powerpc</h1>
+# bullseye-proposed-updates contrib packages for binary-powerpc
 
 
   1. [dummy-contrib](#dummy-contrib)

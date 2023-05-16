@@ -6,7 +6,7 @@ parent: main
 grand_parent: bullseye
 ---
 
-<h1> bullseye main packages for binary-powerpc</h1>
+# bullseye main packages for binary-powerpc
 
 
   1. [anon-apps-config](#anon-apps-config)

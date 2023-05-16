@@ -6,7 +6,7 @@ parent: non-free
 grand_parent: bullseye-proposed-updates
 ---
 
-<h1> bullseye-proposed-updates non-free packages for binary-i386</h1>
+# bullseye-proposed-updates non-free packages for binary-i386
 
 
   1. [dummy-nonfree](#dummy-nonfree)

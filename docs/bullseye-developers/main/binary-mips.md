@@ -6,7 +6,7 @@ parent: main
 grand_parent: bullseye-developers
 ---
 
-<h1> bullseye-developers main packages for binary-mips</h1>
+# bullseye-developers main packages for binary-mips
 
 
   1. [anon-apps-config](#anon-apps-config)

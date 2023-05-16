@@ -6,7 +6,7 @@ parent: main
 grand_parent: bullseye-proposed-updates
 ---
 
-<h1> bullseye-proposed-updates main packages for binary-sparc</h1>
+# bullseye-proposed-updates main packages for binary-sparc
 
 
   1. [anon-apps-config](#anon-apps-config)

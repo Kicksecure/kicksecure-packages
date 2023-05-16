@@ -6,7 +6,7 @@ parent: contrib
 grand_parent: bullseye-developers
 ---
 
-<h1> bullseye-developers contrib packages for binary-mips</h1>
+# bullseye-developers contrib packages for binary-mips
 
 
   1. [dummy-contrib](#dummy-contrib)

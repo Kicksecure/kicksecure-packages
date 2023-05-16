@@ -6,7 +6,7 @@ parent: main
 grand_parent: bullseye
 ---
 
-<h1> bullseye main packages for binary-amd64</h1>
+# bullseye main packages for binary-amd64
 
 
   1. [anon-apps-config](#anon-apps-config)

@@ -6,7 +6,7 @@ parent: contrib
 grand_parent: bullseye-proposed-updates
 ---
 
-<h1> bullseye-proposed-updates contrib packages for binary-hurd-amd64</h1>
+# bullseye-proposed-updates contrib packages for binary-hurd-amd64
 
 
   1. [dummy-contrib](#dummy-contrib)

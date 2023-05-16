@@ -6,7 +6,7 @@ parent: main
 grand_parent: bullseye-proposed-updates
 ---
 
-<h1> bullseye-proposed-updates main packages for binary-hurd-amd64</h1>
+# bullseye-proposed-updates main packages for binary-hurd-amd64
 
 
   1. [anon-apps-config](#anon-apps-config)

@@ -6,7 +6,7 @@ parent: non-free
 grand_parent: bullseye
 ---
 
-<h1> bullseye non-free packages for binary-mips</h1>
+# bullseye non-free packages for binary-mips
 
 
   1. [dummy-nonfree](#dummy-nonfree)

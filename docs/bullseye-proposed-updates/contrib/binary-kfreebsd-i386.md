@@ -6,7 +6,7 @@ parent: contrib
 grand_parent: bullseye-proposed-updates
 ---
 
-<h1> bullseye-proposed-updates contrib packages for binary-kfreebsd-i386</h1>
+# bullseye-proposed-updates contrib packages for binary-kfreebsd-i386
 
 
   1. [dummy-contrib](#dummy-contrib)

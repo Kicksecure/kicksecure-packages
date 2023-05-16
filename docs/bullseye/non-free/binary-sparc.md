@@ -6,7 +6,7 @@ parent: non-free
 grand_parent: bullseye
 ---
 
-<h1> bullseye non-free packages for binary-sparc</h1>
+# bullseye non-free packages for binary-sparc
 
 
   1. [dummy-nonfree](#dummy-nonfree)

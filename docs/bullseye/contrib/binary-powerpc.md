@@ -6,7 +6,7 @@ parent: contrib
 grand_parent: bullseye
 ---
 
-<h1> bullseye contrib packages for binary-powerpc</h1>
+# bullseye contrib packages for binary-powerpc
 
 
   1. [dummy-contrib](#dummy-contrib)
