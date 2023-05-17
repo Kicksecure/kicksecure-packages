@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-amd64
-nav_order: 133
+nav_order: 125
 parent: non-free
 grand_parent: bullseye-proposed-updates
 ---

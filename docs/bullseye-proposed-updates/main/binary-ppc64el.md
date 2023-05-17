@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-ppc64el
-nav_order: 113
+nav_order: 121
 parent: main
 grand_parent: bullseye-proposed-updates
 ---

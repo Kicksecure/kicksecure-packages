@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-powerpc
-nav_order: 109
+nav_order: 119
 parent: main
 grand_parent: bullseye-proposed-updates
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-ppc64el
-nav_order: 26
+nav_order: 86
 parent: non-free
 grand_parent: bullseye-developers
 ---

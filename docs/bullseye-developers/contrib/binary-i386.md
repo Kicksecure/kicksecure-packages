@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-i386
-nav_order: 45
+nav_order: 96
 parent: contrib
 grand_parent: bullseye-developers
 ---

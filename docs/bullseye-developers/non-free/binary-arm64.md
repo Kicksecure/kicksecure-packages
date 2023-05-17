@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-arm64
-nav_order: 25
+nav_order: 74
 parent: non-free
 grand_parent: bullseye-developers
 ---

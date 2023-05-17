@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-powerpc
-nav_order: 91
+nav_order: 49
 parent: contrib
 grand_parent: bullseye
 ---

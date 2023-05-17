@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-armel
-nav_order: 205
+nav_order: 196
 parent: contrib
 grand_parent: bullseye-testers
 ---

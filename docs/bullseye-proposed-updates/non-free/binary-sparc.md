@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-sparc
-nav_order: 134
+nav_order: 140
 parent: non-free
 grand_parent: bullseye-proposed-updates
 ---

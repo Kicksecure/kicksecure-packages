@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-hurd-amd64
-nav_order: 16
+nav_order: 60
 parent: main
 grand_parent: bullseye-developers
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-mips
-nav_order: 173
+nav_order: 169
 parent: main
 grand_parent: bullseye-testers
 ---

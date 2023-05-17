@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-kfreebsd-i386
-nav_order: 209
+nav_order: 202
 parent: contrib
 grand_parent: bullseye-testers
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-s390x
-nav_order: 160
+nav_order: 174
 parent: main
 grand_parent: bullseye-testers
 ---

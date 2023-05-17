@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-armel
-nav_order: 67
+nav_order: 6
 parent: main
 grand_parent: bullseye
 ---

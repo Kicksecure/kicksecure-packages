@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-powerpc
-nav_order: 22
+nav_order: 84
 parent: non-free
 grand_parent: bullseye-developers
 ---

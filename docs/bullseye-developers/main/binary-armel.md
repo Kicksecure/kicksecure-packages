@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-armel
-nav_order: 15
+nav_order: 58
 parent: main
 grand_parent: bullseye-developers
 ---

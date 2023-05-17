@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-mipsel
-nav_order: 127
+nav_order: 135
 parent: non-free
 grand_parent: bullseye-proposed-updates
 ---

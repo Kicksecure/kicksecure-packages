@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-hurd-amd64
-nav_order: 206
+nav_order: 198
 parent: contrib
 grand_parent: bullseye-testers
 ---

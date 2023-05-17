@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-s390x
-nav_order: 38
+nav_order: 104
 parent: contrib
 grand_parent: bullseye-developers
 ---

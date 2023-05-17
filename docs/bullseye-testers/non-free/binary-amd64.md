@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-amd64
-nav_order: 185
+nav_order: 177
 parent: non-free
 grand_parent: bullseye-testers
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-arm64
-nav_order: 129
+nav_order: 126
 parent: non-free
 grand_parent: bullseye-proposed-updates
 ---

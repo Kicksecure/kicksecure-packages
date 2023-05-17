@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-hurd-amd64
-nav_order: 85
+nav_order: 25
 parent: non-free
 grand_parent: bullseye
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-i386
-nav_order: 167
+nav_order: 166
 parent: main
 grand_parent: bullseye-testers
 ---

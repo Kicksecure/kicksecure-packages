@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-kfreebsd-i386
-nav_order: 105
+nav_order: 46
 parent: contrib
 grand_parent: bullseye
 ---

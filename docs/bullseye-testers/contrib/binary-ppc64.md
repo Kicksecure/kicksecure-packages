@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-ppc64
-nav_order: 208
+nav_order: 206
 parent: contrib
 grand_parent: bullseye-testers
 ---

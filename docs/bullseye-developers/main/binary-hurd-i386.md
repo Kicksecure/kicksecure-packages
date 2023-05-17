@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-hurd-i386
-nav_order: 10
+nav_order: 61
 parent: main
 grand_parent: bullseye-developers
 ---

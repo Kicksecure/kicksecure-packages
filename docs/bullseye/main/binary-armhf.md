@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-armhf
-nav_order: 59
+nav_order: 7
 parent: main
 grand_parent: bullseye
 ---

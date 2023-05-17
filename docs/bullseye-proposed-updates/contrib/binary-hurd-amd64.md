@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-hurd-amd64
-nav_order: 154
+nav_order: 146
 parent: contrib
 grand_parent: bullseye-proposed-updates
 ---

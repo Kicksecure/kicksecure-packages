@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-ppc64
-nav_order: 87
+nav_order: 33
 parent: non-free
 grand_parent: bullseye
 ---

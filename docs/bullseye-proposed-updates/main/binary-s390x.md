@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-s390x
-nav_order: 108
+nav_order: 122
 parent: main
 grand_parent: bullseye-proposed-updates
 ---

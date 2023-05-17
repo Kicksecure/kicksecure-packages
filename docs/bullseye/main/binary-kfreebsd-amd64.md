@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-kfreebsd-amd64
-nav_order: 66
+nav_order: 11
 parent: main
 grand_parent: bullseye
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-amd64
-nav_order: 46
+nav_order: 90
 parent: contrib
 grand_parent: bullseye-developers
 ---

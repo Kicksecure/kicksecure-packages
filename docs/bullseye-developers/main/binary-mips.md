@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-mips
-nav_order: 17
+nav_order: 65
 parent: main
 grand_parent: bullseye-developers
 ---

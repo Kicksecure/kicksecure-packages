@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-kfreebsd-i386
-nav_order: 140
+nav_order: 133
 parent: non-free
 grand_parent: bullseye-proposed-updates
 ---

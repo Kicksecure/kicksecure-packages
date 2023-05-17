@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-mipsel
-nav_order: 92
+nav_order: 48
 parent: contrib
 grand_parent: bullseye
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-kfreebsd-amd64
-nav_order: 118
+nav_order: 115
 parent: main
 grand_parent: bullseye-proposed-updates
 ---

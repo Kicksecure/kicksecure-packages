@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-sparc
-nav_order: 203
+nav_order: 209
 parent: contrib
 grand_parent: bullseye-testers
 ---

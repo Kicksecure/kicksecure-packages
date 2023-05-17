@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-kfreebsd-amd64
-nav_order: 31
+nav_order: 80
 parent: non-free
 grand_parent: bullseye-developers
 ---

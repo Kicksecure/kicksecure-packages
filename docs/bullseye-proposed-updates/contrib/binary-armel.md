@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-armel
-nav_order: 153
+nav_order: 144
 parent: contrib
 grand_parent: bullseye-proposed-updates
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-powerpc
-nav_order: 178
+nav_order: 188
 parent: non-free
 grand_parent: bullseye-testers
 ---

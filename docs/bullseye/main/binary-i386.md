@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-i386
-nav_order: 63
+nav_order: 10
 parent: main
 grand_parent: bullseye
 ---

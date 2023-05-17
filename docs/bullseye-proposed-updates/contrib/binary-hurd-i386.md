@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-hurd-i386
-nav_order: 148
+nav_order: 147
 parent: contrib
 grand_parent: bullseye-proposed-updates
 ---

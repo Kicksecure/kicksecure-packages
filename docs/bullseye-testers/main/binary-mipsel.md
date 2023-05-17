@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-mipsel
-nav_order: 162
+nav_order: 170
 parent: main
 grand_parent: bullseye-testers
 ---

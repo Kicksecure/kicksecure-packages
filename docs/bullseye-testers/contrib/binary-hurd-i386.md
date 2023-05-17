@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-hurd-i386
-nav_order: 200
+nav_order: 199
 parent: contrib
 grand_parent: bullseye-testers
 ---

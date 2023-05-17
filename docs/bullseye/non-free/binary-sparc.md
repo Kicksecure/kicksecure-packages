@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-sparc
-nav_order: 82
+nav_order: 36
 parent: non-free
 grand_parent: bullseye
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-i386
-nav_order: 115
+nav_order: 114
 parent: main
 grand_parent: bullseye-proposed-updates
 ---

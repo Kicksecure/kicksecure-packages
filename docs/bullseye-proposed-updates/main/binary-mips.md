@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-mips
-nav_order: 121
+nav_order: 117
 parent: main
 grand_parent: bullseye-proposed-updates
 ---
